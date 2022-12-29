@@ -1,0 +1,28 @@
+div{
+    background-color: chartreuse;
+    color: red;
+    text-align: center;
+    height:300px;
+    width:400px;
+    border-top-width: 12px;
+    border-top-style: groove;
+    border-top-color: aqua;
+    border-bottom-width:12px;
+    border-bottom-style: groove;
+    border-bottom-color:aqua;
+    border-right-width: 12px;
+    border-right-style: groove;
+    border-right-color: aqua;
+    border-left-width: 12px;
+    border-left-style: groove;
+    border-left-color: aqua;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-left:54px;
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+}

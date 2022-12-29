@@ -1,0 +1,11 @@
+ol{
+    list-style-type:lower-roman;
+}ul{
+    list-style-type:circle;
+    list-style-position:inside;
+    list-style-image: url("heart.jpeg");
+}
+div{
+    background-color: goldenrod;
+    color: sienna;
+}

@@ -1,0 +1,20 @@
+h1{
+    color:blueviolet;
+    text-align: center;
+    text-decoration:underline;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+}
+h2{
+    color:black;
+    text-indent: 12px;
+    text-transform: uppercase;
+    text-shadow: 12px 12px 5px royalblue;
+}
+p{
+    color:brown;
+    text-align: justify;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 20px;
+}

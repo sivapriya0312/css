@@ -1,0 +1,12 @@
+div{
+    background-color: greenyellow;
+    color:yellow;
+    height: 1000px;
+    width: 1000px;
+    text-align:left;
+    background-image: url("temple.jpeg");
+    border-radius: 100px;
+    border-color:goldenrod;
+    border-style: groove;
+    border-width: 20px;
+}

@@ -1,0 +1,16 @@
+div{
+    background-color:deepskyblue;
+    padding: 30px;
+}
+a:link{
+    color:black;
+}
+a:visited{
+    color:aqua;
+}
+a:active{
+    color:green;
+}
+a:hover{
+    color:darkred;
+}

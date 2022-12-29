@@ -1,0 +1,17 @@
+table,th,tr,td{
+    background-color: aqua;
+    color:blue;
+    border:3px solid green;
+   /* border width:3px;
+    border-style: double;
+    border-color: black;*/
+    border-radius: 14px;
+    height: 50px;
+    width: 100px;
+    padding: 10px;
+    border-spacing: 10px;
+    border-collapse: separate;
+    empty-cells: hide;
+    caption-side:bottom;
+    table-layout:auto;
+}

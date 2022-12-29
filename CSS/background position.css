@@ -1,0 +1,6 @@
+body{
+    background-image: url("heart.jpeg");
+    color: blue;
+    background-repeat:no-repeat;
+    background-position: right bottom;
+}
